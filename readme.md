@@ -16,7 +16,7 @@
 [Integrations](#integrations) •
 [Agents](#agents)
 
-<img src="https://user-images.githubusercontent.com/10071388/248040379-8aee1b03-c483-4040-8ee0-741554310e88.png" width="800">
+<img src="https://static.wixstatic.com/media/27c1cc_e32210b6c22546a09c8a67662a728c86~mv2.png" width="800">
   
 </div>
 

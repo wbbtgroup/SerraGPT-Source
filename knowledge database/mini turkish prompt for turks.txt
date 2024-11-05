@@ -1,0 +1,1128 @@
+1. Kişisel Yönetim
+
+a) Görev Yönetimi
+
+
+
+
+
+Görev oluşturma, düzenleme, silme ve listeleme işlemleri.
+
+
+
+Görevler için öncelik atama: "yüksek", "orta", "düşük".
+
+
+
+Görevlerin tamamlanma yüzdesi ve durumu hakkında bilgi sağlama.
+
+
+
+Önerilen görev tamamlanma süreleri, kullanıcının görev geçmişine dayalı.
+
+b) Hatırlatıcılar
+
+
+
+
+
+Zaman bazlı hatırlatıcılar: gün, hafta, ay veya yıl bazında.
+
+
+
+Kullanıcının günlük su içme, ilaç alma gibi sağlıkla ilgili hatırlatmalarına yönelik bilgileri saklama.
+
+
+
+Hatırlatma türleri: alışveriş, sağlık, iş toplantıları, etkinlikler.
+
+
+
+Sesli ya da yazılı hatırlatıcılarla bilgilendirme.
+
+c) Kişisel Gelişim ve Hedef Takibi
+
+
+
+
+
+Kişisel hedefler oluşturma: "spor yapma", "kitap okuma", "yeni bir beceri öğrenme".
+
+
+
+Kullanıcının uzun vadeli hedefleri ve bunların ilerleme durumu.
+
+
+
+Hedeflere ulaşma motivasyonu ve öneriler: “Bu hafta hedefinin %50’sini tamamladın, harika iş çıkardın!”
+
+
+
+2. Finansal Bilgiler ve Tavsiyeler
+
+a) Bütçe ve Harcama Takibi
+
+
+
+
+
+Günlük, haftalık, aylık gelir-gider tablosu oluşturma.
+
+
+
+Kullanıcı harcamalarının kategorilere ayrılması (market, kira, ulaşım, eğlence vb.).
+
+
+
+Gelir ve gider analizine dayalı bütçe yönetimi önerileri: "Bu ay fazla harcama yaptın, tasarruf etmelisin."
+
+b) Finansal Hedefler ve Birikim Planlama
+
+
+
+
+
+Kullanıcının aylık birikim hedefleri ve birikim stratejileri.
+
+
+
+Harcamaların düzenli raporlanması: "Bu hafta %20 daha az harcama yaptın."
+
+
+
+Kredi kartı, banka hesabı bilgileri için güvenli veri yönetimi.
+
+c) Tasarruf Önerileri
+
+
+
+
+
+Kullanıcının mali durumu ve harcama alışkanlıklarına göre tasarruf yöntemleri: "Elektrik faturası için otomatik ödeme indirimi mevcut."
+
+
+
+Gereksiz harcamaları tespit etme ve bunlara yönelik bildirimler: "Bu hafta dışarıda yemek yeme masrafını azaltabilirsin."
+
+
+
+3. Sağlık ve Zindelik
+
+a) Sağlık Tavsiyeleri
+
+
+
+
+
+Kullanıcının günlük aktivitelerine dayalı egzersiz önerileri: “Bugün 30 dakika yürüyüş yapmaya ne dersin?”
+
+
+
+Beslenme takibi ve öneriler: "Daha fazla su içmelisin", "Protein alımını artırmalısın."
+
+
+
+Kullanıcının sağlık durumuna uygun yemek önerileri: "Düşük karbonhidratlı diyet için uygun yemek tarifleri."
+
+b) Sağlık Hatırlatıcıları
+
+
+
+
+
+Günlük su tüketim hatırlatmaları.
+
+
+
+İlaç hatırlatıcıları (saat, miktar, ilaç ismi).
+
+
+
+4. Dil Öğrenme ve Pratik
+
+a) Dil Dersleri
+
+
+
+
+
+Kelime dağarcığını geliştirme dersleri: her gün yeni kelimeler öğrenme ve tekrar hatırlatıcıları.
+
+
+
+Dilbilgisi kuralları ve uygulamalı örneklerle pratik: "İngilizce’de geniş zaman kullanımı."
+
+b) Soru-Cevap Pratikleri
+
+
+
+
+
+Öğrenilen dilde pratik yapmak için sorular: "Bugün ne yaptın?", "En sevdiğin hobin nedir?"
+
+
+
+Cevapların analiz edilmesi ve geri bildirim verilmesi: "Bu cümlede yanlış bir zaman kullanımı var."
+
+
+
+5. Hukuki Bilgiler
+
+a) Temel Hukuk Bilgilendirme
+
+
+
+
+
+Türkiye’deki temel yasal haklar ve yükümlülükler hakkında bilgi.
+
+
+
+Tüketici hakları, iş hukuku, aile hukuku gibi genel hukuk konuları hakkında bilgilendirme.
+
+b) Yasal Süreçler
+
+
+
+
+
+Mahkeme, dava açma ve yasal başvuru süreçlerinin açıklanması.
+
+
+
+Hukuki belgelerin nasıl hazırlanacağı konusunda bilgi: "Bir kira sözleşmesi nasıl oluşturulur?"
+
+c) Sık Sorulan Hukuki Sorular
+
+
+
+
+
+“Kira kontratım bitmeden evden çıkabilir miyim?”
+
+
+
+"İş yerinde haksız yere işten çıkarıldım, ne yapmalıyım?"
+
+
+
+6. Seyahat ve Hava Durumu Bilgileri
+
+a) Seyahat Önerileri
+
+
+
+
+
+Kullanıcının seyahat edeceği bölgeye yönelik öneriler: “Paris'teki müzeleri gezmek için en iyi zaman sabah saatleridir.”
+
+
+
+Seyahat sırasında dikkat edilmesi gereken yerel kültür, hava durumu bilgileri.
+
+b) Hava Durumu ve Ulaşım
+
+
+
+
+
+Güncel hava durumu ve hava tahminleri: “Bugün İstanbul’da yağmur bekleniyor, şemsiyeni unutma.”
+
+
+
+Trafik durumu ve ulaşım bilgileri: “Şu anki trafik durumu yoğun, alternatif bir rota öneriliyor.”
+
+
+
+7. Kariyer ve Profesyonel Gelişim
+
+a) CV ve Mülakat Hazırlığı
+
+
+
+
+
+CV oluşturma ve geliştirme önerileri: "CV’nizde şu bilgileri ekleyebilirsiniz..."
+
+
+
+Mülakat soruları ve cevap örnekleri: “Bu soruya nasıl yanıt verebilirsin?”
+
+b) İş Arama ve Kariyer Gelişimi
+
+
+
+
+
+İş ilanı arama ve başvuru süreçlerinde yardımcı olma.
+
+
+
+Yeni beceriler kazanmak için online kurs ve eğitim önerileri.
+
+c) Profesyonel İletişim
+
+
+
+
+
+İş yazışmalarında uygun dil kullanımı: “İngilizce profesyonel bir e-posta nasıl yazılır?”
+
+
+
+8. Yemek ve Tarifler
+
+a) Günlük Beslenme Tavsiyeleri
+
+
+
+
+
+Kullanıcının belirlediği sağlık hedeflerine uygun beslenme önerileri: "Düşük kalorili atıştırmalıklar."
+
+b) Tarif Önerileri
+
+
+
+
+
+Sağlıklı yemek tarifleri: “Bugün için sağlıklı ve hafif bir salata tarifi.”
+
+
+
+Yemekler için besin değerleri ve kalori bilgileri.
+
+
+
+9. Eğlence ve Hobiler
+
+a) Film ve Kitap Önerileri
+
+
+
+
+
+Kullanıcının izleme ve okuma alışkanlıklarına göre öneriler: “Bu hafta bir bilim kurgu filmi izlemek ister misin?”
+
+b) Hobi ve Aktivite Tavsiyeleri
+
+
+
+
+
+Kullanıcının boş zamanlarında yapabileceği hobiler: "Resim yapmayı ya da yeni bir enstrüman çalmayı öğrenebilirsin."
+
+
+
+10. Bilimsel ve Akademik Destek
+
+a) Matematik ve Bilim Soruları
+
+
+
+
+
+Kullanıcının akademik problemlerine yardımcı olma: “Bu denklemi nasıl çözebilirim?”
+
+
+
+Bilimsel makale araştırmaları için öneriler.
+
+b) Araştırma ve Proje Desteği
+
+
+
+
+
+Akademik araştırmalar için kaynak önerileri: “Bu konuda şu kitapları inceleyebilirsin.”
+
+
+
+11. Diğer Bilgiler ve Genel Bilgilendirme
+
+a) Teknoloji ve Cihaz Yardımı
+
+
+
+
+
+Kullanıcının teknolojiyle ilgili sorularına yanıt verme: “Telefonum dondu, ne yapmalıyım?”
+
+b) Genel Sorulara Yanıt
+
+
+
+
+
+Tarih, coğrafya, sanat gibi konular hakkında genel bilgiler sağlama: “Rönesans dönemi hakkında bilgi verir misin?”
+
+
+---------------------------------------------
+
+
+1. Kişisel Yönetim ve Organizasyon
+
+a) Zaman Yönetimi Yöntemleri
+
+Pareto Prensibi (80-20 Kuralı)
+
+Açıklama: Çoğu sonuç, çabaların %20'sinden gelir. Örneğin, bir projede elde edilen başarının, yapılan çalışmaların sadece %20'sinden kaynaklanması. Bu prensibi kullanarak en etkili stratejilere odaklanabilirsiniz.
+
+Pomodoro Tekniği
+
+Açıklama: 25 dakika çalışma, 5 dakika ara verme döngüsüdür. Bu döngü sonunda 15-30 dakika daha uzun bir mola vererek dinlenebilirsiniz. Verimliliği artırır ve dikkat dağınıklığını azaltır.
+
+Zaman Bloklama Yöntemi
+
+Açıklama: Gününüzü belirli zaman dilimlerine ayırarak o süre içinde yalnızca o belirli görevle ilgilenirsiniz. Örneğin, sabah saatleri yazmaya, öğleden sonraları toplantılara ayırabilirsiniz.
+
+b) Hatırlatıcılar ve Zamanlayıcılar
+
+Su İçme Hatırlatıcıları
+
+Açıklama: Sağlığınızı artırmak için yeterli su içmeyi hatırlatır. Günde 8 bardak su içmek, vücudun hidratasyon seviyesini artırır.
+
+İlaç Alma Hatırlatmaları
+
+Açıklama: Belirli saatlerde ilaç almanız gerektiğinde hatırlatmalar yaparak sağlığınızı korumanıza yardımcı olur.
+
+c) Görev Takibi ve Yönetimi
+
+Görev Listesi Oluşturma
+
+Açıklama: Görevlerinizi "Tamamlandı", "Devam Ediyor", "Gecikmiş" gibi kategorilere ayırarak verimliliğinizi artırabilirsiniz.
+
+Tamamlanan Görevlerin İzlenmesi
+
+Açıklama: Her gün tamamladığınız görevleri kaydederek, hedeflerinize ne kadar yaklaştığınızı görebilir ve motivasyonunuzu artırabilirsiniz.
+
+d) Hedef Belirleme ve Takip
+
+Kişisel Gelişim Hedefleri
+
+Açıklama: 6 ay içinde bir yabancı dili akıcı bir şekilde konuşmayı hedeflemek. Bu hedefe ulaşmak için günlük pratik yapma, uygulamalar kullanma ve dil değişim partneri bulma yollarını deneyebilirsiniz.
+
+Kariyer Hedefleri
+
+Açıklama: 1 yıl içinde belirli bir pozisyona terfi etmeyi hedeflemek. Bunun için gerekli becerileri öğrenmek ve yöneticilerle iletişim kurmak önemli.
+
+e) Alışkanlık Takibi
+
+Düzenli Egzersiz Yapma
+
+Açıklama: Haftada en az 3 gün egzersiz yapma hedefi. Bu hedefe ulaşmak için spor salonuna yazılma veya günlük yürüyüş programları oluşturma.
+
+Sağlıklı Beslenme Alışkanlıkları
+
+Açıklama: Günde en az 5 porsiyon meyve ve sebze tüketimi, vücudunuzun ihtiyaç duyduğu vitaminleri ve mineralleri almanızı sağlar.
+
+2. Finansal Yönetim
+
+a) Tüm Ülkelerin Para Birimleri
+
+Ek Örnekler:
+
+Norveç - Norveç Kronu (NOK)
+
+Singapur - Singapur Doları (SGD)
+
+Japonya - Japon Yeni (JPY)
+
+Brezilya - Brezilya Reali (BRL)
+
+b) Vergi Bilgileri ve Tasarruf Stratejileri
+
+Kişisel Vergi İndirimleri
+
+Açıklama: Eğitim masrafları, sağlık harcamaları, bağışlar gibi konularda vergi indirimlerinden faydalanarak tasarruf yapabilirsiniz.
+
+Bütçe Oluşturma
+
+Açıklama: Aylık gelir ve giderlerinizi belirleyerek tasarruf yapabileceğiniz alanları saptamak için bütçe planı oluşturmalısınız.
+
+c) Yatırım Araçları ve Risk Yönetimi
+
+Yatırım Fonları
+
+Açıklama: Hisse senedi, tahvil ve gayrimenkul gibi varlıkların bir araya getirildiği portföyler. Risk dağılımı sağlar.
+
+Gayrimenkul Yatırımları
+
+Açıklama: Kiralama gelirleri elde etmek amacıyla konut veya ticari mülk yatırımı yapmak. Gayrimenkul değerinin zamanla artma potansiyeli vardır.
+
+d) Emeklilik Planlaması
+
+Emeklilik Hesaplama Araçları
+
+Açıklama: Şu anda sahip olduğunuz birikimler, hedeflediğiniz emeklilik yaşı ve aylık katkılarınız ile gelecekteki emeklilik birikimlerinizi hesaplayabilirsiniz.
+
+3. Sağlık, Zindelik ve Kişisel Bakım
+
+a) Sağlık Tavsiyeleri
+
+Popüler Sağlık Uygulamaları
+
+Örnekler: Meditasyon uygulamaları (Headspace, Calm) ve fitness takip uygulamaları (MyFitnessPal, Strava).
+
+Düzenli Kontroller
+
+Açıklama: Yılda en az bir kez genel sağlık kontrolü yaptırarak sağlık durumunuzu gözden geçirebilirsiniz.
+
+b) Spor ve Egzersiz Planları
+
+Farklı Spor Dallarında Programlar
+
+Örnekler: Koşu, yüzme, bisiklet sürme, yoga. Haftalık program oluşturarak düzenli olarak yapabilirsiniz.
+
+Kişisel Fitness Hedefleri
+
+Açıklama: 5 km koşmak için haftada 4 gün antrenman yapma planı hazırlamak. Bu planı uygulayarak dayanıklılığınızı artırabilirsiniz.
+
+c) Diyet ve Beslenme Tavsiyeleri
+
+Sağlıklı Tarifler
+
+Örnekler: Avokado tostu, kinoa salatası, sebzeli omlet. Sağlıklı ve pratik tarifler sunarak dengeli beslenmenizi destekler.
+
+Düşük Kalorili Atıştırmalıklar
+
+Örnekler: Yoğurt, meyve, badem gibi sağlıklı atıştırmalık alternatifleri sunarak sağlıklı seçimler yapmanızı teşvik eder.
+
+d) Uyku ve Dinlenme Yönetimi
+
+Uyku Düzeni Oluşturma
+
+Açıklama: Her gün aynı saatte yatıp kalkarak vücut saatinizi düzenleyebilirsiniz. Uykunun kalitesini artırmak için ekran süresini azaltmak önemlidir.
+
+Rahatlama Teknikleri
+
+Örnekler: Derin nefes alma, meditasyon ve yoga ile stres azaltma. Rahatlamak için kısa molalar vermek de faydalıdır.
+
+4. Dil ve Kültürel Bilgiler
+
+a) Tüm Ülkelerin Resmi Dilleri
+
+Ek Örnekler:
+
+Danimarka - Danca
+
+Çek Cumhuriyeti - Çekçe
+
+Yunanistan - Yunanca
+
+Tayvan - Mandarin Çincesi
+
+b) Dil Bilgisi ve İleri Dil Eğitimi
+
+Kullanışlı Dil Öğrenme Kaynakları
+
+Örnekler: Duolingo, Rosetta Stone, Babbel. Bu uygulamalar, dil öğreniminizi destekler ve pratik yapmanıza yardımcı olur.
+
+Dil Öğrenirken Dikkat Edilmesi Gerekenler
+
+Açıklama: Kelime dağarcığınızı geliştirmek için her gün yeni kelimeler öğrenmek ve bu kelimeleri kullanarak cümleler oluşturmak önemlidir.
+
+5. Seyahat ve Coğrafya Bilgileri
+
+a) Tüm Ülkelerin Başkentleri
+
+Ek Örnekler:
+
+İtalya - Roma
+
+Fransa - Paris
+
+Meksika - Ciudad de México
+
+Avustralya - Canberra
+
+Kenya - Nairobi
+
+Brezilya - Brasília
+
+b) Vize ve Giriş-Çıkış Bilgileri
+
+Ülke Bazında Vize Gereklilikleri
+
+Örnekler: Schengen bölgesine seyahat için gerekli belgeler ve vize türleri hakkında bilgiler sunmak.
+
+Seyahat Sigortası
+
+Açıklama: Seyahatten önce mutlaka seyahat sigortası yaptırarak olası sağlık sorunlarına karşı önlem almak.
+
+c) Kültürel Bilgiler ve Gelenekler
+
+Her Ülkenin Öne Çıkan Festivalleri
+
+Örnekler: Rio Karnavalı (Brezilya), Diwali (Hindistan), Oktoberfest (Almanya).
+
+Geleneksel Yemekler
+
+Örnekler:
+
+İtalya: Pizza ve makarna
+
+Japonya: Sushi ve ramen
+
+Meksika: Tacos ve guacamole
+
+6. Eğlence ve Medya
+
+a) Film ve Dizi Önerileri
+
+Popüler Filmler
+
+Örnekler:
+
+Inception (2010): Zihinler arası bir yolculukta geçen bilim kurgu filmi.
+
+The Godfather (1972): Bir mafya ailesinin hikayesini anlatan klasik film.
+
+Dizi Önerileri
+
+Örnekler:
+
+Breaking Bad: Eski bir kimya öğretmeninin uyuşturucu imalatına girişini anlatan dizi.
+
+Game of Thrones: Westeros'taki taht kavgalarını konu alan fantastik dizi.
+
+b) Müzik Önerileri ve Sanatçılar
+
+Çeşitli Müzik Türleri
+
+Örnekler:
+
+Pop: Taylor Swift, Dua Lipa
+
+Rock: Queen, Nirvana
+
+Caz: Miles Davis, Louis Armstrong
+
+c) Oyun ve Eğlence Aktiviteleri
+
+Popüler Video Oyunları
+
+Örnekler:
+
+The Last of Us: Post-apokaliptik bir dünyada hayatta kalma mücadelesi.
+
+Minecraft: Açık dünya inşa etme ve keşfetme oyunu.
+
+Sosyal Oyun Önerileri
+
+Örnekler: Scrabble, Monopoly, Catan gibi masa oyunları.
+
+7. Bilim ve Doğa
+
+a) Bilimsel Kavramlar ve Teoriler
+
+Evrim Teorisi
+
+Açıklama: Türlerin zaman içinde doğal seleksiyon yoluyla değiştiği fikrini savunur.
+
+Görelilik Teorisi
+
+Açıklama: Albert Einstein tarafından geliştirilen, zaman ve mekanın birbirine bağlı olduğu fikrini ifade eder.
+
+b) Doğa ve Çevre Bilgisi
+
+Biyoçeşitlilik
+
+Açıklama: Farklı türlerin ve ekosistemlerin çeşitliliği, doğanın sağlığı için kritik öneme sahiptir.
+
+İklim Değişikliği
+
+Açıklama: Sera gazlarının artışı nedeniyle dünya sıcaklığının yükselmesi. Buzulların erimesi ve deniz seviyesinin yükselmesi gibi etkileri vardır.
+
+8. Hobi ve Eğlence
+
+a) Yaratıcı Hobiler
+
+Edebiyat
+
+Açıklama: Roman yazma, şiir yazma gibi edebi çalışmalar. Yaratıcılığı artırır ve duygu ifadesine yardımcı olur.
+
+Fotoğrafçılık
+
+Açıklama: Anları yakalamak ve estetik bir bakış açısı geliştirmek için fotoğraf çekme sanatı.
+
+b) Doğa Aktiviteleri
+
+Bahçecilik
+
+Açıklama: Bitki yetiştirme ve bakımını içeren hobi. Doğayla etkileşimi artırır ve stres azaltır.
+
+Hayvan Bakımı
+
+Açıklama: Evcil hayvan beslemek ve onlarla vakit geçirmek, sorumluluk duygusunu geliştirir.
+
+9. Teknoloji ve Bilgi Güvenliği
+
+a) Güncel Teknolojik Gelişmeler
+
+Yapay Zeka ve Makine Öğrenimi
+
+Açıklama: Bilgisayar sistemlerinin veri ile öğrenme yeteneği. Uygulama alanları arasında otomasyon, sağlık hizmetleri ve finans yer alır.
+
+Nesnelerin İnterneti (IoT)
+
+Açıklama: İnternet bağlantısı olan cihazların birbiriyle iletişim kurması. Akıllı ev sistemleri bu teknolojiyi kullanır.
+
+b) Dijital Araçlar ve Uygulamalar
+
+Veri Analizi Araçları
+
+Örnekler: Excel, Tableau, Google Analytics. Veri toplama, analiz etme ve raporlama için kullanılır.
+
+Sosyal Medya Yönetim Araçları
+
+Örnekler: Hootsuite, Buffer. Sosyal medya hesaplarınızı etkin bir şekilde yönetmenize yardımcı olur.
+
+10. Genel Bilgiler
+
+a) Dünya Tarihi
+
+Önemli Tarihler ve Olaylar
+
+1776: Amerika'nın Bağımsızlık Bildirgesi.
+
+1989: Berlin Duvarı'nın yıkılması.
+
+b) Önemli Bilimsel Kavramlar
+
+Kütle Çekimi
+
+Açıklama: Cisimlerin birbirine çekilme kuvvetidir. Newton'un yerçekimi yasası ile açıklanır.
+
+Fiziksel Değişim ve Kimyasal Değişim
+
+Açıklama: Fiziksel değişim, maddenin görünümündeki değişikliklerdir (örneğin, suyun buharlaşması). Kimyasal değişim ise maddenin kimyasal yapısının değişmesidir (örneğin, demirin paslanması).
+
+-------------------------------
+
+
+1. Senaryo: Yemek Hatırlatma
+
+Dil: Türkçe
+
+Zamanlayıcı Kurulumu:
+
+Kullanıcı:
+
+
+
+30 dakika sonra bana yemek pişirmeye başlamam gerektiğini hatırlat.
+
+Yapay Zeka Botu:
+
+
+
+Tamam, 30 dakika sonra yemek pişirmeye başlaman gerektiğini hatırlatacağım.
+
+(30 dakika başlatıldı)
+
+
+
+Mesajlaşma Arası:
+
+Kullanıcı:
+
+
+
+Bu hafta sonu bir gezi planlıyorum, hava nasıl olacak?
+
+Yapay Zeka Botu:
+
+
+
+Hafta sonu için hava durumu şu şekilde: Cumartesi hafif yağmurlu, Pazar ise güneşli ve sıcak görünüyor. Hangi gün gezi yapmayı düşünüyorsun?
+
+(10 dakika geçti)
+
+
+
+Kullanıcı:
+
+
+
+Pazar günü gitmeyi düşünüyorum.
+
+Yapay Zeka Botu:
+
+
+
+Harika seçim! Pazar günü güneşli olacağı için açık hava aktiviteleri için ideal görünüyor. Yanında su ve güneş kremi almayı unutma!
+
+(20 dakika geçti)
+
+
+
+Kullanıcı:
+
+
+
+Teşekkürler, not aldım. Peki gezide götüreceğim yiyecekler için bir önerin var mı?
+
+Yapay Zeka Botu:
+
+
+
+Tabii! Hafif ve taşınabilir yiyecekler iyi olabilir. Mesela sandviçler, meyve dilimleri, kuruyemişler ve bol su. Ayrıca birkaç enerji barı da acil durumlar için yanında bulundurabilirsin.
+
+(29 dakika geçti)
+
+
+
+Zamanlayıcı Süresi Dolduğunda:
+
+Yapay Zeka Botu:
+
+
+
+Hatırlatma: Yemek pişirmeye başlaman gerekiyor! Şu an tam zamanı. İyi yemekler!
+
+
+
+1. Senaryo: Meal Reminder
+
+Language: English
+
+Timer Setup:
+
+User:
+
+
+
+Remind me to start cooking in 30 minutes.
+
+AI Bot:
+
+
+
+Got it! I'll remind you to start cooking in 30 minutes.
+
+(Timer for 30 minutes started)
+
+
+
+Message Exchange During Timer:
+
+User:
+
+
+
+By the way, I’m planning a trip this weekend. How’s the weather going to be?
+
+AI Bot:
+
+
+
+Here’s the weather forecast for the weekend: It’ll be light rain on Saturday and sunny on Sunday. Which day are you planning to go?
+
+(10 minutes passed)
+
+
+
+User:
+
+
+
+I’m thinking of going on Sunday.
+
+AI Bot:
+
+
+
+Great choice! Sunday is perfect for outdoor activities since it’ll be sunny. Don’t forget to bring water and sunscreen!
+
+(20 minutes passed)
+
+
+
+User:
+
+
+
+Thanks! Any suggestions for snacks to take on the trip?
+
+AI Bot:
+
+
+
+Sure! Portable and light snacks would be ideal. Try sandwiches, fruit slices, nuts, and lots of water. Also, maybe pack a few energy bars for emergencies.
+
+(29 minutes passed)
+
+
+
+Timer Expiry:
+
+AI Bot:
+
+
+
+Reminder: It’s time to start cooking! Go ahead and get started. Enjoy your meal!
+
+
+
+2. Senaryo: Egzersiz Hatırlatma
+
+Dil: Türkçe
+
+Zamanlayıcı Kurulumu:
+
+Kullanıcı:
+
+
+
+1 saat sonra bana egzersiz yapmam gerektiğini hatırlat.
+
+Yapay Zeka Botu:
+
+
+
+Tamam, 1 saat sonra egzersiz yapman gerektiğini hatırlatacağım.
+
+(1 saat başlatıldı)
+
+
+
+Mesajlaşma Arası:
+
+Kullanıcı:
+
+
+
+Egzersiz öncesinde enerji verecek ne tür yiyecekler önerirsin?
+
+Yapay Zeka Botu:
+
+
+
+Egzersizden önce hızlı enerji sağlayan yiyecekler iyi olur. Mesela muz, yoğurt ya da fıstık ezmesi gibi protein ve karbonhidrat dengesi olan atıştırmalıklar enerjini artırabilir.
+
+(15 dakika geçti)
+
+
+
+Kullanıcı:
+
+
+
+Tamam, bunları deneyeceğim. Peki, egzersiz sonrası ne yemeliyim?
+
+Yapay Zeka Botu:
+
+
+
+Egzersiz sonrası kaslarını toparlamak için protein ağırlıklı yiyecekler iyi olur. Tavuk, balık, yumurta veya protein içecekleri tercih edebilirsin. Ayrıca vücudundaki su kaybını gidermek için bol su içmeyi unutma!
+
+(30 dakika geçti)
+
+
+
+Zamanlayıcı Süresi Dolduğunda:
+
+Yapay Zeka Botu:
+
+
+
+Hatırlatma: Egzersiz zamanı geldi! Egzersiz rutinini yapmayı unutma, vücudun seni teşekkür edecek!
+
+
+
+2. Senaryo: Exercise Reminder
+
+Language: English
+
+Timer Setup:
+
+User:
+
+
+
+Remind me to work out in 1 hour.
+
+AI Bot:
+
+
+
+Got it! I’ll remind you to work out in 1 hour.
+
+(Timer for 1 hour started)
+
+
+
+Message Exchange During Timer:
+
+User:
+
+
+
+What kind of pre-workout snacks would you recommend for energy?
+
+AI Bot:
+
+
+
+Pre-workout snacks that give quick energy are great. You could try bananas, yogurt, or peanut butter, which have a good balance of protein and carbs to boost your energy.
+
+(15 minutes passed)
+
+
+
+User:
+
+
+
+Sounds good. What about post-workout food?
+
+AI Bot:
+
+
+
+After your workout, focus on protein-rich foods to help your muscles recover. You can have chicken, fish, eggs, or a protein shake. Don’t forget to stay hydrated with lots of water!
+
+(30 minutes passed)
+
+
+
+Timer Expiry:
+
+AI Bot:
+
+
+
+Reminder: Time to work out! Your body will thank you later, so let’s get moving!
+
+
+
+3. Senaryo: Çamaşır Hatırlatma
+
+Dil: Türkçe
+
+Zamanlayıcı Kurulumu:
+
+Kullanıcı:
+
+
+
+20 dakika sonra çamaşır makinesini kontrol etmemi hatırlat.
+
+Yapay Zeka Botu:
+
+
+
+Anladım, 20 dakika sonra çamaşır makinesini kontrol etmen için hatırlatacağım.
+
+(20 dakika başlatıldı)
+
+
+
+Mesajlaşma Arası:
+
+Kullanıcı:
+
+
+
+Yarınki sunumum için ne yapmalıyım?
+
+Yapay Zeka Botu:
+
+
+
+Sunumun etkili olması için önemli noktaları vurgulayıp, metni kısa tutmanı öneririm. Görselleri bol kullanmak da iyi bir fikir olabilir.
+
+(10 dakika geçti)
+
+
+
+Kullanıcı:
+
+
+
+Grafik ekleyebilirim. Başka ne önerirsin?
+
+Yapay Zeka Botu:
+
+
+
+Sorularla izleyiciyi dahil etmek, ilgi çekici olabilir. Dinleyicilerin katılımını sağlarsan, daha etkileyici bir sunum yapabilirsin.
+
+(18 dakika geçti)
+
+
+
+Zamanlayıcı Süresi Dolduğunda:
+
+Yapay Zeka Botu:
+
+
+
+Hatırlatma: Çamaşır makinesini kontrol etme zamanı geldi! Artık durulama aşamasına geçmiş olabilir.
+
+
+
+3. Senaryo: Laundry Reminder
+
+Language: English
+
+Timer Setup:
+
+User:
+
+
+
+Remind me to check the washing machine in 20 minutes.
+
+AI Bot:
+
+
+
+Understood! I’ll remind you to check the washing machine in 20 minutes.
+
+(Timer for 20 minutes started)
+
+
+
+Message Exchange During Timer:
+
+User:
+
+
+
+What should I do to improve my presentation for tomorrow?
+
+AI Bot:
+
+
+
+To make your presentation impactful, highlight the key points and keep the text short. Using visuals generously can also help keep the audience engaged.
+
+(10 minutes passed)
+
+
+
+User:
+
+
+
+I can add some charts. Anything else?
+
+AI Bot:
+
+
+
+Asking questions during your presentation can be very engaging. It’s a good way to involve your audience and make the session interactive.
+
+(18 minutes passed)
+
+
+
+Timer Expiry:
+
+AI Bot:
+
+
+
+Reminder: Time to check the washing machine! It might be done with rinsing by now.
