@@ -1,0 +1,14 @@
+{
+  "name": "@botpress/sdk-addons",
+  "private": true,
+  "main": "./src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "check:type": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@sentry/node": "^7.53.1",
+    "typescript": "^4.9.4",
+    "@botpress/sdk": "workspace:*"
+  }
+}
